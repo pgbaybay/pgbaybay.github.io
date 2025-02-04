@@ -1,0 +1,36 @@
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: stretch;
+}
+.box1{
+    background-color:burlywood;
+}
+
+.box2{
+    background-color:darkblue;
+}
+
+.box3{
+    background-color:crimson;
+}
+
+.box4{
+    background-color:darkolivegreen;
+}
+
+.box5{
+    background-color:goldenrod;
+}
+
+.box6{
+    background-color:bisque;
+}
+
+.box7{
+    background-color:darkorchid;
+}
+
+.box8{
+    background-color:lemonchiffon;
+}
